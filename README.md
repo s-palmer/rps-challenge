@@ -1,4 +1,4 @@
-# RPS Challenge
+# RPS Challenge - Multiplayer
 
 ## Task
 
